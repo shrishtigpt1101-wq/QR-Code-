@@ -53,10 +53,3 @@ The output file will be saved as `my_qrcode.png`.
 - `QR Code Generator/main.py` - main Python script that generates the QR code.
 - `QR Code Generator/my_github.png` - example image file included in the folder.
 
-## License
-
-This repository has no license specified. Feel free to use and modify it for personal projects.
-
-## Author
-
-Created by the repository owner.
